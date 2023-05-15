@@ -1,0 +1,13 @@
+.item{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+#contenedor{
+    justify-content:flex-end;
+    
+}
+#contenido{
+    display: flex;
+    justify-content: space-around;
+}

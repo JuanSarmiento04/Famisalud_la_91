@@ -27,19 +27,15 @@ header img{
 
 nav {
   background-color: rgba(12, 52, 68, 0.562);
-  margin: 5px 0px 2px 60px;
   color: white;
   height: 40px;
   width: 900px;
-  padding-left: 80px;
   padding-bottom: 15px;
   font-family:cursive ;
   border-style: double 
 }
 
 ul li{
-  float: right;
-  margin-right: 150px;
   color: white;
   font-size: 20px;
 }
